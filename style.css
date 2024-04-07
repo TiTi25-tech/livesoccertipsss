@@ -1,0 +1,31 @@
+.sign{
+     width: 30%;
+     height: 30px;
+     border-radius: 10px;
+     border-color: blue;
+     margin-top: 10px;
+}
+
+.fill{
+    color: blue;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fill:hover{
+    text-decoration: underline;
+}
+
+.drinna{
+    position: relative;
+    
+}
+.in{
+    margin-left: 40px;
+}
+
+.sign{
+    position: relative;
+    text-align: center;
+    left: 110px;
+}
